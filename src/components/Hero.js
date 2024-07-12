@@ -1,5 +1,4 @@
 import React from 'react'
-import BackgroundHero from '../assets/images/background-hero.jpeg'
 import WomanHero from '../assets/images/hero.png'
 import { Link } from 'react-router-dom'
 
